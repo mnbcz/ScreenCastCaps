@@ -8,6 +8,8 @@ Used by instructors and YouTubers to create tutorials.
 
 All pressed keys are displayed, not combinations. So, you can know which key was pressed and which is currently being held. Examples and tutorial can be found here.
 
+To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases)
+
 The following features are supported:
 
 - Moving the keyboard, or keystrokes, with the mouse.
