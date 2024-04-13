@@ -1,7 +1,10 @@
 
 # Screencast Keyboard - Keyboard and mouse on the screen.
 
-Suitable for those cases when need to display the keyboard, mouse, or keystrokes on the screen.
+This is keystroke visualizer for Windows. On screen display keystrokes, keyboard, and mouse. 
+
+Designed specifically for creating screencasts and tutorials.
+Used by instructors and YouTubers to create tutorials.
 
 All pressed keys are displayed, not combinations. So, you can know which key was pressed and which is currently being held. Examples and tutorial can be found here.
 
