@@ -1,5 +1,5 @@
 
-# Screencast Keyboard - Keyboard and mouse on the screen.
+# Screencast Keyboard - Keyboard, mouse, keystrokes on the screen.
 
 This is keystroke visualizer for Windows. On screen display keystrokes, keyboard, and mouse. 
 
