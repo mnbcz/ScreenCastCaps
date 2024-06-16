@@ -23,20 +23,20 @@ The following features are supported:
 
 By default, the sound of the keys is disabled.
 You can enable this by right-clicking on the program in the tray and a menu will open.
-Next select **Setting**. Scroll to the bottom and find the option **Keyboard and mouse sound**.
+Next select **Settings**. Scroll to the bottom and find the option **Keyboard and mouse sound**.
 Turn on the switch on the right.
 At the bottom there will be a list of sound themes for keystrokes.
 
 ## Installing the user sound theme
 
-To create a sound theme yourself, you need in **Setting** > **Keyboard and mouse sound**,  click on the link - themes.
+To create a custom sound theme, you need in **Settings** > **Keyboard and mouse sound**,  click on the link - themes.
 The Theme Directory window will open.
 Copy the existing theme directory, rename, and change the sound files.
 Reload program.
 
 # Custom keystroke style
 
-To create a custom theme for keystroke,  you need in **Setting** > **KeyList**,  click on the link - themes.
+To create a custom theme for keystroke,  you need in **Settings** > **KeyList**,  click on the link - themes.
 The Theme Directory window will open.
 Copy any theme file, rename it, and change the css.
 Click the Reload button.
