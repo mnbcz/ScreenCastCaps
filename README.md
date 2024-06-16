@@ -46,5 +46,6 @@ Click the Reload button.
 If there are any problems with the program.
 The sound lags when pressed, etc.
 Select **Reload** from the menu.
+Close unnecessary programs that load the processor.
 
 
