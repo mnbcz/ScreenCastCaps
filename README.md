@@ -1,22 +1,21 @@
 
-# Screencast Keyboard - Keyboard, mouse, keystrokes on the screen.
-
-This is keystroke visualizer for Windows. On screen display keystrokes, keyboard, and mouse. 
+# Keyboard, mouse, keystrokes, draw on the screen.
 
 Designed specifically for creating screencasts and tutorials.
-Used by instructors and YouTubers to create tutorials.
-
-All pressed keys are displayed, not combinations. So, you can know which key was pressed and which is currently being held. Examples and tutorial can be found here.
 
 To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases)
 
 The following features are supported:
 
+- Custom CSS Styling, themes.
 - Moving the keyboard, or keystrokes, with the mouse.
-- Resizing the keyboard with the mouse.
+- Resizing.
 - Sound when pressing keys.
-- Sound themes for keys. It is possible to create a theme yourself.
-- Ability to change keystrokes style via css.
+- 3 print flow direction modes (From left to right. From right to left).
+- Freehand style drawing.
+- 11 colors for draw. 6 line thicknesses (any drawing colors can be set in the settings).
+- Storing the state.
+- Custom Hotkeys.
 
 
 
@@ -30,23 +29,17 @@ At the bottom there will be a list of sound themes for keystrokes.
 
 ## Installing the user sound theme
 
-To create a sound theme yourself, you need to copy the `Mechanic brown` directory with the sound theme in the directory
-`C:\Program Files\ScreenCast Keyboard\sounds`.
-And put it in the directory
-`C:\Users\<UserName>\AppData\Roaming\ScreenCast Keyboard\sounds`
-And rename.
-Next, replace the sound files in this directory.
-In **Setting**, a new theme will appear in the list of sound themes.
-
+To create a sound theme yourself, you need in **Setting** > **Keyboard and mouse sound**,  click on the link - themes.
+The Theme Directory window will open.
+Copy the existing theme directory, rename, and change the sound files.
+Reload program.
 
 # Custom keystroke style
 
-To change the keystroke style, you need to go to the directory with the program, then to the `www` directory
-`C:\Program Files\ScreenCast Keyboard\www`.
-Copy the `keysList.css` file and place it here.
-Next, edit the style file `keysList.css`.
-Restart the program.
-
+To create a custom theme for keystroke,  you need in **Setting** > **KeyList**,  click on the link - themes.
+The Theme Directory window will open.
+Copy any theme file, rename it, and change the css.
+Click the Reload button.
 
 # Issues
 
