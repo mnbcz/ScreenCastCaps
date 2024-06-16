@@ -11,7 +11,7 @@ The following features are supported:
 - Moving the keyboard, or keystrokes, with the mouse.
 - Resizing.
 - Sound when pressing keys.
-- 3 print flow direction modes (From left to right. From right to left).
+- 3 print flow direction modes.
 - Freehand style drawing.
 - 11 colors for draw. 6 line thicknesses (any drawing colors can be set in the settings).
 - Storing the state.
