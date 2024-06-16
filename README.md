@@ -17,7 +17,9 @@ The following features are supported:
 - Storing the state.
 - Custom Hotkeys.
 
-
+# How to use
+There will be a program icon in the tray. Right-click and select the **Settings** menu.
+There you can find all the program settings, hotkeys, and function descriptions.
 
 # Sound when pressing keys
 
