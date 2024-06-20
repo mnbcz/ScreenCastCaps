@@ -24,8 +24,7 @@ There you can find all the program settings, hotkeys, and function descriptions.
 # Sound when pressing keys
 
 By default, the sound of the keys is disabled.
-You can enable this by right-clicking on the program in the tray and a menu will open.
-Next select **Settings**. Scroll to the bottom and find the option **Keyboard and mouse sound**.
+In **Settings** scroll to the bottom and find the option **Keyboard and mouse sound**.
 Turn on the switch on the right.
 At the bottom there will be a list of sound themes for keystrokes.
 
