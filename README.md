@@ -3,9 +3,9 @@
 
 Designed specifically for creating screencasts and tutorials.
 
-To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases)
+To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases).
 
-How to use it, here [Youtube tutorials](https://www.youtube.com/watch?v=kpFCxzOFQs4).
+[Youtube tutorials](https://www.youtube.com/watch?v=kpFCxzOFQs4).
 
 # How to use
 There will be a program icon in the tray. Right-click and select the **Settings** menu.
