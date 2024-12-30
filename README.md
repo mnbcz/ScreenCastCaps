@@ -7,18 +7,18 @@ CSS Based keystroke visualizer on screen. Lots of predefined keystroke CSS theme
 Tutorial about the program on [Youtube](https://www.youtube.com/watch?v=kpFCxzOFQs4).
 To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases).
 
-Great thing to display the keys pressed on the screen, and draw.
+Great thing to display keys pressed on screen, and draw.
 Suitable for screen recording, screencasting, and tutorials.
 This is not another keystroke visualizer.
-This follows a different style of displaying keys.
-Keystrokes are arranged in a row or in a column, which is much more convenient to keep track of which key was pressed. See the presentation on YouTube.
-You can change the direction of the keystroke keys, left to right, or right to left, top to bottom, or bottom to top.
+This follows a different style of displaying keystrokes.
+Keystrokes are arranged in a row or in a column, which is much more convenient to keep track of which key was pressed. 
+There are different directions for printing keystrokes: left to right, or right to left, top to bottom, or bottom to top.
 Keystroke can be moved to any place on the screen with the mouse.
 There is also an on-screen keyboard and mouse that highlight the buttons that were pressed.
 The keyboard and mouse can be disabled, and only keystrokes can be left, or vice versa.
 You can turn on the sound of pressed keys. There are several sound themes for the keys.
 There is a function for drawing on the screen. Quickly draw simple shapes on the screen - arrows, lines, frames, text.
-
+Keystrokes with the sound of keys being pressed.
 
 # How to use
 There will be a program icon in the tray. Right-click and select the **Settings** menu.
