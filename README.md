@@ -1,5 +1,5 @@
 
-# Keystrokes on screen, keyboard, draw
+# Keystrokes on screen, keyboard, mouse, draw on screen
 
 Designed specifically for creating screencasts and tutorials.
 CSS Based keystroke visualizer on screen. Lots of predefined keystroke CSS themes. It's easy to create a theme yourself. All pressed keys are displayed on the screen, including mouse buttons and mouse wheel.
