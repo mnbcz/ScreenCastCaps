@@ -16,9 +16,9 @@ There are different directions for printing keystrokes: left to right, or right 
 Keystroke can be moved to any place on the screen with the mouse.
 There is also an on-screen keyboard and mouse that highlight the buttons that were pressed.
 The keyboard and mouse can be disabled, and only keystrokes can be left, or vice versa.
-You can turn on the sound of pressed keys. There are several sound themes for the keys.
+
 There is a function for drawing on the screen. Quickly draw simple shapes on the screen - arrows, lines, frames, text.
-Keystrokes with the sound of keys being pressed.
+Keystrokes with the sound of keys being pressed. 
 
 # How to use
 There will be a program icon in the tray. Right-click and select the **Settings** menu.
