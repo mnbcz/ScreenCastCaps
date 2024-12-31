@@ -2,14 +2,13 @@
 # Keystrokes on screen, keyboard, mouse, draw on screen
 
 Designed specifically for creating screencasts and tutorials.
-CSS Based keystroke visualizer on screen. Lots of predefined keystroke CSS themes. It's easy to create a theme yourself. All pressed keys are displayed on the screen, including mouse buttons and mouse wheel.
+CSS Based keystroke on screen. Lots of predefined keystroke CSS themes. It's easy to create a theme yourself. All pressed keys are displayed on the screen, including mouse buttons and mouse wheel.
 
 Tutorial about the program on [Youtube](https://www.youtube.com/watch?v=kpFCxzOFQs4).
 To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases).
 
 Great thing to display keys pressed on screen, and draw.
 Suitable for screen recording, screencasting, and tutorials.
-This is not another keystroke visualizer.
 This follows a different style of displaying keystrokes.
 Keystrokes are arranged in a row or in a column, which is much more convenient to keep track of which key was pressed. 
 There are different directions for printing keystrokes: left to right, or right to left, top to bottom, or bottom to top.
