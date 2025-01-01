@@ -6,6 +6,9 @@ CSS Based keystroke on screen. Lots of predefined keystroke CSS themes. It's eas
 
 Tutorial about the program on [Youtube](https://www.youtube.com/watch?v=kpFCxzOFQs4).
 To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases).
+**Note!**: 
+> To install the program, you need to check the Unblock box in the program file properties. (Right-click on the installer program, then - Swow more options, then Properties, and at the bottom there will be a checkbox Unblock).
+
 
 Great thing to display keys pressed on screen, and draw on screen.
 Suitable for screen recording, screencasting, create tutorials, Youtube creators. And wherever it needed to display the pressed keys on the screen, or the keyboard and mouse.
