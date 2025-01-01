@@ -22,6 +22,8 @@ The keyboard and mouse can be disabled, and only keystrokes can be left.
 Quickly draw simple shapes on the screen - arrows, lines, rectangles, text.
 There is also sound of pressed keys. 
 
+> Installation is absolutely free. No advertising, spyware, malware, etc. Absolutely safe. Can be removed at any time, without a trace. Takes up only a few megabytes.
+
 # How to use
 Menu of programs - in tray. Right-click on tray program icon, and select the **Settings** menu.
 There will be hotkeys, and function descriptions.
