@@ -2,7 +2,7 @@
 # Keystrokes on screen, keyboard, mouse, draw on screen
 
 Designed specifically for creating screencasts and tutorials.
-CSS Based keystroke on screen. Lots of predefined keystroke CSS themes. It's easy to create a theme. All pressed keys are displayed on the screen, including mouse buttons and mouse wheel.
+CSS Based keystroke on screen. Lots of predefined keystroke CSS themes. It's easy to create a custom theme. All pressed keys are displayed on the screen, including mouse buttons, and even mouse wheel.
 
 Tutorial about the program on [Youtube](https://www.youtube.com/watch?v=kpFCxzOFQs4).
 To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/releases).
