@@ -10,6 +10,7 @@ To install, use [latest release](https://github.com/mnbcz/ScreenCast-Keyboard/re
 **Note!**: 
 > To install the program, you need to check the Unblock box in the program file properties. (Right-click on the installer program, then - Swow more options, then Properties, and at the bottom there will be a checkbox Unblock).
 
+> Installation is absolutely free. No advertising, spyware, malware, etc. Absolutely safe. Can be removed at any time, without a trace. Takes up only a few megabytes.
 
 Great thing to display keys pressed on screen, and draw on screen.
 Suitable for screen recording, screencasting, create tutorials, Youtube creators. And wherever it needed to display the pressed keys on the screen, or the keyboard and mouse.
@@ -22,7 +23,6 @@ The keyboard and mouse can be disabled, and only keystrokes can be left.
 Quickly draw simple shapes on the screen - arrows, lines, rectangles, text.
 There is also sound of pressed keys. 
 
-> Installation is absolutely free. No advertising, spyware, malware, etc. Absolutely safe. Can be removed at any time, without a trace. Takes up only a few megabytes.
 
 # How to use
 Menu of programs - in tray. Right-click on tray program icon, and select the **Settings** menu.
